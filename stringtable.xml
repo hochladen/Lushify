@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project name="Lushify">
+  <Package name="Lushify">
+    <Key ID="STR_Lushify_TreeScale">
+      <English>Tree Scale</English>
+      <Spanish>Escala de árboles</Spanish>
+      <German>Baum-Skala</German>
+      <Chinesesimp>树木规模</Chinesesimp>
+      <Japanese>ツリースケール</Japanese>
+      <Italian>Scala dell'albero</Italian>
+      <French>Échelle des arbres</French>
+      <Polish>Skala drzew</Polish>
+      <Russian>Масштаб дерева</Russian>
+      <Portuguese>Escala de Árvore</Portuguese>
+      <Czech>Měřítko stromu</Czech>
+    </Key>
+    <Key ID="STR_Lushify_TreeScaleDesc">
+      <English>Tree size multiplier (1.5 is +50%)</English>
+      <Spanish>Multiplicador del tamaño del árbol (1,5 es +50%)</Spanish>
+      <German>Multiplikator der Baumgröße (1,5 ist +50%)</German>
+      <Chinesesimp>树的大小乘数（1.5是+50%）。</Chinesesimp>
+      <Japanese>ツリーサイズの倍率（1.5は+50%)</Japanese>
+      <Italian>Moltiplicatore della dimensione dell'albero (1,5 è +50%)</Italian>
+      <French>Multiplicateur de la taille de l'arbre (1,5 est +50%)</French>
+      <Polish>Mnożnik wielkości drzewa (1,5 to +50%)</Polish>
+      <Russian>Множитель размера дерева (1,5 - +50%)</Russian>
+      <Portuguese>Multiplicador de tamanho de árvore (1,5 é +50%)</Portuguese>
+      <Czech>Násobitel velikosti stromu (1,5 je +50%)</Czech>
+    </Key>
+    <Key ID="STR_Lushify_BushScale">
+      <English>Bush Scale</English>
+      <Spanish>Escala de arbustos</Spanish>
+      <German>Busch-Skala</German>
+      <Chinesesimp>布什规模</Chinesesimp>
+      <Japanese>ブッシュスケール</Japanese>
+      <Italian>Scala a cespuglio</Italian>
+      <French>Échelle de brousse</French>
+      <Polish>Bush Scale</Polish>
+      <Russian>Масштаб куста</Russian>
+      <Portuguese>Balança Bush</Portuguese>
+      <Czech>Stupnice Bush</Czech>
+    </Key>
+    <Key ID="STR_Lushify_BushScaleDesc">
+      <English>Bush size multiplier (1.5 is +50%)</English>
+      <Spanish>Multiplicador del tamaño del arbusto (1,5 es +50%)</Spanish>
+      <German>Multiplikator der Buschgröße (1,5 ist +50%)</German>
+      <Chinesesimp>灌木丛大小的乘数（1.5是+50%）。</Chinesesimp>
+      <Japanese>ブッシュサイズの倍率（1.5は+50%)</Japanese>
+      <Italian>Moltiplicatore della dimensione del cespuglio (1,5 è +50%)</Italian>
+      <French>Multiplicateur de la taille du buisson (1,5 est +50%)</French>
+      <Polish>Mnożnik wielkości krzaka (1,5 to +50%)</Polish>
+      <Russian>Множитель размера куста (1,5 - +50%)</Russian>
+      <Portuguese>Multiplicador de tamanho de mato (1,5 é +50%)</Portuguese>
+      <Czech>násobitel velikosti keře (1,5 je +50 %)</Czech>
+    </Key>
+    <Key ID="STR_Lushify_Sizes">
+      <English>Sizes</English>
+      <Spanish>Tallas</Spanish>
+      <German>Größen</German>
+      <Chinesesimp>尺寸</Chinesesimp>
+      <Japanese>サイズ</Japanese>
+      <Italian>Taglie</Italian>
+      <French>Tailles</French>
+      <Polish>Rozmiary</Polish>
+      <Russian>Размеры</Russian>
+      <Portuguese>Tamanhos</Portuguese>
+      <Czech>Velikosti</Czech>
+    </Key>
+    <Key ID="STR_Lushify_Resize">
+      <English>Resize</English>
+      <Spanish>Redimensionar</Spanish>
+      <German>Größe ändern</German>
+      <Chinesesimp>调整大小</Chinesesimp>
+      <Japanese>リサイズ</Japanese>
+      <Italian>Ridimensionare</Italian>
+      <French>Redimensionner</French>
+      <Polish>Zmień rozmiar</Polish>
+      <Russian>Изменить размер</Russian>
+      <Portuguese>Redimensionar</Portuguese>
+      <Czech>Změna velikosti</Czech>
+    </Key>
+    <Key ID="STR_Lushify_ModelReplacements">
+      <English>Model Replacements</English>
+      <Spanish>Sustitución de modelos</Spanish>
+      <German>Modell-Ersatz</German>
+      <Chinesesimp>替换的模型</Chinesesimp>
+      <Japanese>モデル交換</Japanese>
+      <Italian>Sostituzioni di modelli</Italian>
+      <French>Remplacements de modèles</French>
+      <Polish>Wzory Zamienniki</Polish>
+      <Russian>Замена моделей</Russian>
+      <Portuguese>Substituições de modelos</Portuguese>
+      <Czech>Náhrady modelů</Czech>
+    </Key>
+    <Key ID="STR_Lushify_ModelReplacementsDesc">
+      <English>Pairs of models to swap</English>
+      <Spanish>Pares de modelos para intercambiar</Spanish>
+      <German>Paare von Modellen zum Tauschen</German>
+      <Chinesesimp>成对的模型交换</Chinesesimp>
+      <Japanese>交換するモデルのペア</Japanese>
+      <Italian>Coppie di modelli da scambiare</Italian>
+      <French>Paires de modèles à échanger</French>
+      <Polish>Pary modeli do zamiany</Polish>
+      <Russian>Пары моделей для обмена</Russian>
+      <Portuguese>Pares de modelos para trocar</Portuguese>
+      <Czech>Páry modelů k výměně</Czech>
+    </Key>
+    <Key ID="STR_Lushify_ResizeModuleDesc">
+      <English>Allows for scaling and model replacement in a given area</English>
+      <Spanish>Permite escalar y sustituir el modelo en una zona determinada</Spanish>
+      <German>Ermöglicht die Skalierung und den Austausch von Modellen in einem bestimmten Bereich</German>
+      <Chinesesimp>允许在特定区域内进行缩放和模型替换</Chinesesimp>
+      <Japanese>一定のエリアでのスケーリングやモデルの入れ替えが可能になる</Japanese>
+      <Italian>Permette il ridimensionamento e la sostituzione del modello in una determinata area</Italian>
+      <French>Permet la mise à l'échelle et le remplacement de modèles dans une zone donnée</French>
+      <Polish>Umożliwia skalowanie i wymianę modeli na danym obszarze</Polish>
+      <Russian>Позволяет масштабировать и заменять модели в данной области</Russian>
+      <Portuguese>Permite escalar e substituir modelos em uma determinada área</Portuguese>
+      <Czech>Umožňuje škálování a výměnu modelu v dané oblasti.</Czech>
+    </Key>
+    <Key ID="STR_Lushify_MinScale">
+      <English>Minimum Scale Multiplier</English>
+      <Spanish>Multiplicador de escala mínimo</Spanish>
+      <German>Minimaler Skalenmultiplikator</German>
+      <Chinesesimp>最小比例乘数</Chinesesimp>
+      <Japanese>最小目盛倍率</Japanese>
+      <Italian>Moltiplicatore di scala minimo</Italian>
+      <French>Multiplicateur de l'échelle minimale</French>
+      <Polish>Minimalny mnożnik skali</Polish>
+      <Russian>Минимальный множитель шкалы</Russian>
+      <Portuguese>Multiplicador de Escala Mínima</Portuguese>
+      <Czech>Minimální násobitel stupnice</Czech>
+    </Key>
+    <Key ID="STR_Lushify_MinScaleDesc">
+      <English>The base foliage scales will be multiplied by a random normally distributed value between this and the maximum scale multiplier. Set both to 1 to disable random scaling.</English>
+      <Spanish>Las escalas del follaje base se multiplicarán por un valor aleatorio distribuido normalmente entre éste y el multiplicador de escala máximo. Establezca ambos valores en 1 para desactivar el escalado aleatorio.</Spanish>
+      <German>Die Skalierung des Basislaubs wird mit einem zufälligen, normalverteilten Wert zwischen diesem und dem maximalen Skalierungsmultiplikator multipliziert. Setzen Sie beide Werte auf 1, um die zufällige Skalierung zu deaktivieren.</German>
+      <Chinesesimp>基本叶子的比例将乘以一个介于此和最大比例乘数之间的随机正态分布值。将两者都设置为1，可以禁用随机缩放。</Chinesesimp>
+      <Japanese>基本的な葉のスケールは、これと最大スケール倍率の間のランダムな正規分布値で乗算されます。ランダムなスケーリングを無効にするには、両方を 1 に設定します。</Japanese>
+      <Italian>Le scale del fogliame di base saranno moltiplicate per un valore casuale normalmente distribuito tra questo e il moltiplicatore di scala massimo. Impostate entrambi a 1 per disabilitare la scala casuale.</Italian>
+      <French>Les échelles du feuillage de base seront multipliées par une valeur aléatoire normalement distribuée entre celle-ci et le multiplicateur d'échelle maximum. Mettez les deux à 1 pour désactiver la mise à l'échelle aléatoire.</French>
+      <Polish>Skala listowia podstawowego zostanie pomnożona przez losową, normalnie rozłożoną wartość pomiędzy tym a maksymalnym mnożnikiem skali. Ustaw oba na 1, aby wyłączyć losowe skalowanie.</Polish>
+      <Russian>Базовые масштабы листвы будут умножены на случайное нормально распределенное значение между этим и максимальным множителем масштаба. Установите оба значения в 1, чтобы отключить случайное масштабирование.</Russian>
+      <Portuguese>As escalas de folhagem de base serão multiplicadas por um valor aleatório normalmente distribuído entre este e o multiplicador de escala máxima. Definir ambas a 1 para desactivar a escala aleatória.</Portuguese>
+      <Czech>Základní měřítka listů budou vynásobena náhodnou normálně rozloženou hodnotou mezi touto hodnotou a maximálním násobitelem měřítka. Chcete-li náhodné škálování zakázat, nastavte obě hodnoty na 1.</Czech>
+    </Key>
+    <Key ID="STR_Lushify_MaxScale">
+      <English>Maximum Scale Multiplier</English>
+      <Spanish>Multiplicador de escala máximo</Spanish>
+      <German>Maximaler Skalenmultiplikator</German>
+      <Chinesesimp>最大比例乘数</Chinesesimp>
+      <Japanese>最大倍率</Japanese>
+      <Italian>Moltiplicatore di scala massimo</Italian>
+      <French>Multiplicateur de l'échelle maximale</French>
+      <Polish>Maksymalny mnożnik skali</Polish>
+      <Russian>Максимальный множитель масштаба</Russian>
+      <Portuguese>Multiplicador de escalas máximo</Portuguese>
+      <Czech>Maximální násobitel měřítka</Czech>
+    </Key>
+    <Key ID="STR_Lushify_MaxScaleDesc">
+      <English>The base foliage scales will be multiplied by a random normally distributed value between this and the minimum scale multiplier. Set both to 1 to disable random scaling.</English>
+      <Spanish>Las escalas del follaje base se multiplicarán por un valor aleatorio distribuido normalmente entre éste y el multiplicador de escala mínimo. Establezca ambos valores en 1 para desactivar el escalado aleatorio.</Spanish>
+      <German>Die Skalierung des Basislaubs wird mit einem zufälligen, normalverteilten Wert zwischen diesem und dem minimalen Skalierungsmultiplikator multipliziert. Setzen Sie beide Werte auf 1, um die zufällige Skalierung zu deaktivieren.</German>
+      <Chinesesimp>基本叶子的比例将乘以一个介于此和最小比例乘数之间的随机正态分布值。将两者都设置为1，可以禁用随机缩放。</Chinesesimp>
+      <Japanese>基本的な葉のスケールは、これと最小スケール倍率の間のランダムな正規分布値で乗算されます。ランダムなスケーリングを無効にするには、両方を 1 に設定します。</Japanese>
+      <Italian>Le scale del fogliame di base saranno moltiplicate per un valore casuale normalmente distribuito tra questo e il moltiplicatore di scala minimo. Impostate entrambi a 1 per disabilitare la scala casuale.</Italian>
+      <French>Les échelles du feuillage de base seront multipliées par une valeur aléatoire normalement distribuée entre celle-ci et le multiplicateur d'échelle minimum. Mettez les deux à 1 pour désactiver la mise à l'échelle aléatoire.</French>
+      <Polish>Skala listowia podstawowego zostanie pomnożona przez losową, normalnie rozłożoną wartość pomiędzy tym a minimalnym mnożnikiem skali. Ustaw oba na 1, aby wyłączyć losowe skalowanie.</Polish>
+      <Russian>Базовые масштабы листвы будут умножены на случайное нормально распределенное значение между этим и минимальным множителем масштаба. Установите оба значения в 1, чтобы отключить случайное масштабирование.</Russian>
+      <Portuguese>A escala da folhagem de base será multiplicada por um valor aleatório normalmente distribuído entre este e o multiplicador da escala mínima. Definir ambas a 1 para desactivar a escala aleatória.</Portuguese>
+      <Czech>Základní měřítka listů budou vynásobena náhodnou normálně rozloženou hodnotou mezi touto hodnotou a minimálním násobitelem měřítka. Chcete-li náhodné škálování zakázat, nastavte obě hodnoty na 1.</Czech>
+    </Key>
+  </Package>
+</Project>
